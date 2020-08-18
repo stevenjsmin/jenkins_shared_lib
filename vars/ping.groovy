@@ -1,6 +1,6 @@
 def call(Map config) {
 
-    echo "-------------------------------------------------------------------------------------------------- pong.groovy"
+    echo "-------------------------------------------------------------------------------------------------- ping.groovy"
 
     // def ARTIFACT_SUB_DIR   = config.ARTIFACT_SUB_DIR
     // def FILE_NAME          = config.FILE_NAME
