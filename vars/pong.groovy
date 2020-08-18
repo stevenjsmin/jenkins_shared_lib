@@ -17,6 +17,8 @@ def call(Map config) {
               
           }
     }
+
+    return "Pong~~~";
     
 }        
         
